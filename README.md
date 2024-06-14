@@ -8,4 +8,8 @@ conda create -n us_visa_prediction python=3.10 -y
 ```bash
 conda activate us_visa_prediction
 ```
+```bash
+pip install -r requirements.txt
+```
+
 
