@@ -5,4 +5,5 @@ import sys
 try:
     res = 1/0
 except Exception as e:
+    logging.info(e)
     raise USvisaException(e, sys) from e
