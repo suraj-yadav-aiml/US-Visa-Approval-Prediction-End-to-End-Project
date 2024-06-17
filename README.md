@@ -13,3 +13,17 @@ pip install -r requirements.txt
 ```
 
 
+## Workflow
+
+1. constant
+2. config_entity from entity
+3. artifact_entity from entity
+4. component
+5. pipeline
+6. app.py
+
+## Export the environment variable
+```bash
+export MONGODB_URL="mongodb+srv:\\<username>:<password>..."
+```
+
